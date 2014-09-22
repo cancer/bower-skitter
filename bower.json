@@ -1,6 +1,6 @@
 {
   "name": "bower-skitter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A bower wrapper of SkitterSlideshow",
   "main": "jquery.skitter.js",
   "authors": [
