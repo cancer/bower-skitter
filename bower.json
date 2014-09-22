@@ -12,7 +12,7 @@
     "**/*",
     "*.md",
     ".node-version",
-    ".gitignore"
+    ".gitignore",
     "sample"
   ],
   "dependencies": {
