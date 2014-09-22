@@ -9,6 +9,10 @@
   "license": "MIT",
   "private": true,
   "ignore": [
+    "**/*",
+    "*.md",
+    ".node-version",
+    ".gitignore"
     "sample"
   ],
   "dependencies": {
